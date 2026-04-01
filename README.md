@@ -1,10 +1,12 @@
 # Hi there, I'm Allan Okwaro 👋
 
-Welcome to my GitHub profile! I'm a postdoctoral researcher exploring the fascinating intersection of epigenetics, somatic mutations, phenotypic plasticity, ageing, and the evolution of sociality.
+Welcome to my GitHub profile! I'm a postdoctoral researcher exploring the basic evolutionary biology questions revolving around the fascinating intersection of epigenetics, somatic mutations, phenotypic plasticity, ageing, and the evolution of sociality.
 
 ## 🔬 About Me
 
-I'm a postdoctoral researcher passionate about understanding how epigenetic mechanisms and somatic mutations shape biological phenotypes and influence evolutionary processes.During my PhD, I worked on the role of epigenetics in division of labor and ageing, using termites of low social complexity (workers retain ability to reproduce) _Cryptotermes secundus_. I particularly focused on H3K9me3 mark in young and old termite queens and workers. Currently at the **University of Zurich**, i work on a project that seeks to investigate how mosquitoes senses/detect water salinity before laying eggs. I am majorly interested in whole genome differences in bracish water and freshwater adapted mosquitoes. Addditionally, I am interested in the transcriptional changes that occur in mosquitoes that are adapted to either brackish water or saline water, when they encounter new environment.
+I'm a postdoctoral researcher passionate about understanding how epigenetic mechanisms and somatic mutations shape biological phenotypes and influence evolutionary processes.During my PhD, I worked on the role of epigenetics in division of labor and ageing, using termites of low social complexity (workers retain ability to reproduce) _Cryptotermes secundus_. I particularly focused on H3K9me3 mark in young and old termite queens and workers. Additionally, I used RNA interference silencing experiments, to downregulate the activity of a histone deacetylase 3 (_HDAC3_) gene in young _C. secundus_ queens and analysed their transcriptomes for signals associated with ageing including the activity of transposable elements and the expression of nutrient sensing pathways which are also associated with ageing. 
+
+Currently at the **University of Zurich**, i work on a project that seeks to investigate how mosquitoes senses/detect water salinity before laying eggs. I am majorly interested in whole genome differences in bracish water and freshwater adapted mosquitoes. Addditionally, I am interested in the transcriptional changes that occur in mosquitoes that are adapted to either brackish water or saline water, when they encounter new environment.
 
 ## 🧬 Research Interests
 
