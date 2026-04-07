@@ -61,14 +61,10 @@ I'm committed to open science principles. All my research code, pipelines, and d
 ## 🤝 Let's Connect
 
 - **Current Position:** Postdoctoral Researcher, University of Zurich
-- **Future Position:** Postdoctoral Researcher, Uppsala University
 - **Google Scholar:** [Allan Okwaro](https://scholar.google.com/citations?user=1tg_CLwAAAAJ&hl=en)
 - **ORCID:** [0000-0002-2059-3531](https://orcid.org/0000-0002-2059-3531)
 - **ResearchGate:** [Louis Okwaro](https://www.researchgate.net/profile/Louis-Okwaro?ev=hdr_xprf)
 - **LinkedIn:** [Louis Allan Okwaro](https://www.linkedin.com/in/louis-allan-okwaro-07296137/)
-- **Email:** [your.email@uzh.ch](#) / [your.email@uu.se](#)
-- **Twitter/X:** [@YourHandle](#)
-- **Personal Website:** [yourwebsite.com](#)
 
 ## 💬 Ask Me About
 
@@ -76,15 +72,13 @@ I'm committed to open science principles. All my research code, pipelines, and d
 - Somatic mutations, mutational load, and ageing
 - Phenotypic plasticity and environmental responsiveness
 - Ageing biology and longevity in social insects
-- Evolution of social behavior and eusociality across insect lineages
 - Comparative genomics of honeybees, termites, and beetles
 - Whole-genome sequencing and variant analysis
 - RNA-Seq data analysis and interpretation
 - ChIP-Seq for chromatin and epigenetic studies
 - Bioinformatics pipelines and computational genomics
-- HPC computing and workflow optimization
+- HPC computing
 - Open science and reproducible research
-- Career transitions in research
 
 ## 🐛 Repositories
 
@@ -97,10 +91,9 @@ Explore my repositories for:
 - Comparative genomics analyses across honeybees, termites, and beetles
 - Research tutorials and documentation
 - Data processing scripts in Python, R, and Bash
-
 ---
 
-⭐ I'm always excited to discuss research, collaborate on projects, or explore new ideas at the intersection of epigenetics, somatic mutations, and evolution. Whether you're interested in honeybee biology, termite eusociality, experimental evolution in beetles, or bioinformatics methods, feel free to explore my repositories and reach out if you'd like to work together!
+⭐ I'm always excited to discuss research, collaborate on projects, or explore new ideas at the intersection of epigenetics, somatic mutations, and evolution.
 
 *Currently based at: University of Zurich until May 2026 | Upcoming: Starting at Uppsala University in June 2026*
 *Last updated: March 2026*
