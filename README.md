@@ -4,15 +4,17 @@ Welcome to my GitHub profile! I'm a postdoctoral researcher exploring the basic 
 
 ## 🔬 About Me
 
-I'm a postdoctoral researcher passionate about understanding how (epi)genetic mechanisms shape biological phenotypes and influence evolutionary processes.During my PhD, I worked on the role of epigenetics in division of labor and ageing, using termites of low social complexity (workers retain ability to reproduce), _Cryptotermes secundus_. I particularly focused on H3K9me3 mark in young and old termite queens and workers. Additionally, I used RNA interference silencing experiments, to downregulate the activity of a histone deacetylase 3 (_HDAC3_) gene in young _C. secundus_ queens and analysed their transcriptomes for signals associated with ageing including the activity of transposable elements and the expression of nutrient sensing pathways which are also associated with ageing. 
+I'm a postdoctoral researcher passionate about understanding how (epi)genetic mechanisms shape biological phenotypes and influence evolutionary processes.During my PhD, I worked on the role of epigenetics in division of labor and ageing, using termites of low social complexity (workers retain ability to reproduce), _Cryptotermes secundus_ as models. I mainly focused on H3K9me3 mark in young and old termite queens and workers. Additionally, I used RNA interference silencing experiments, to downregulate the activity of a histone deacetylase 3 (_HDAC3_) gene in young _C. secundus_ queens and analysed their transcriptomes for ageing associated signals including the increased activity of transposable elements and the expression of nutrient sensing pathways which are also associated with ageing. 
 
-Currently at the **University of Zurich**, i work on a project that seeks to investigate how mosquitoes senses/detect water salinity before laying eggs. I am majorly interested in whole genome differences in bracish water and freshwater adapted mosquitoes. Addditionally, I am interested in the transcriptional changes that occur in mosquitoes that are adapted to either brackish water or saline water, when they encounter new environment.
+After my PhD, i took up a postdoc position at the **University of Zurich**, whereI investigated how mosquitoes senses/detect water salinity before laying eggs. I mainly analysed whole genome differences in brackish water and freshwater adapted _Aedes aegypti_ mosquitoes. Addditionally, we generated and are currently analaysing transcriptome datasets from mosquitoes that are adapted to either brackish water or saline water, when they encounter new environment.
+
+Currently, I am working as a postdoctoral researcher in genomics at **Uppsala University** working on **somatic mutations and ageing in honeybees**
 
 ## 🧬 Research Interests
 
 - **Epigenetics & Gene Regulation** – DNA methylation, histone modifications, chromatin remodeling
 - **Phenotypic Plasticity** – Environmental responsiveness and developmental flexibility
-- **Ageing & Longevity** – Epigenetic clocks, cellular senescence, and age-associated molecular changes
+- **Ageing & Longevity** – DNA methylation, transposable elements regulation, cellular senescence, and age-associated molecular changes
 - **Evolution of Sociality** – Epigenetic and genetic mechanisms underlying social behavior and cooperation in eusocial insects
 - **Comparative Genomics** – Evolutionary insights across social insects and model organisms
 
@@ -25,7 +27,7 @@ Currently at the **University of Zurich**, i work on a project that seeks to inv
 ## 💻 Technical Skills
 
 **Programming Languages:**
-- Python – Data analysis, automation, and machine learning
+- Python – basic python skills for data wrangling
 - R – Statistical analysis, visualization, and bioinformatics
 - Bash – Scripting, workflow automation, and HPC job management
 
@@ -36,9 +38,8 @@ Currently at the **University of Zurich**, i work on a project that seeks to inv
 
 **Tools & Computing:**
 - **Development & Version Control:** Git, GitHub
-- **Computational Environments:** RStudio, Conda/Mamba
+- **Computational Environments:** RStudio, Conda/Mamba, visual studio code
 - **Computing Platforms:** High-Performance Computing (HPC), Linux/Unix
-- **Databases & Resources:** Ensembl, UCSC Genome Browser, NCBI, Ag100Pest (Bee Genome Database)
 
 ## 📌 Featured Research & Projects
 
@@ -46,7 +47,7 @@ Here are some of my key research projects and contributions:
 
 - **Epigenetic Plasticity in Social Insects** – Examining the role of epigenetics in divison of labor and ageing in social insects
 - **Population genetics** – Investigating the genetic diversity and population structure of honeybees in the Comoros islands
-- **Honeybee pathogens** - investigating honeybee pathogens in Kenya and the islands to the South West of the Indian Ocean.
+- **Honeybee pathogens** - Investigating honeybee pathogens in Kenya and the islands to the South West of the Indian Ocean.
 
 ## 📊 Research Output
 
@@ -60,7 +61,7 @@ I'm committed to open science principles. All my research code, pipelines, and d
 
 ## 🤝 Let's Connect
 
-- **Current Position:** Postdoctoral Researcher, University of Zurich
+- **Current Position:** Postdoctoral Researcher, Uppsala University
 - **Google Scholar:** [Allan Okwaro](https://scholar.google.com/citations?user=1tg_CLwAAAAJ&hl=en)
 - **ORCID:** [0000-0002-2059-3531](https://orcid.org/0000-0002-2059-3531)
 - **ResearchGate:** [Louis Okwaro](https://www.researchgate.net/profile/Louis-Okwaro?ev=hdr_xprf)
@@ -68,32 +69,9 @@ I'm committed to open science principles. All my research code, pipelines, and d
 
 ## 💬 Ask Me About
 
-- Epigenetic mechanisms and analysis in insects
-- Somatic mutations, mutational load, and ageing
-- Phenotypic plasticity and environmental responsiveness
-- Ageing biology and longevity in social insects
-- Comparative genomics of honeybees, termites, and beetles
-- Whole-genome sequencing and variant analysis
-- RNA-Seq data analysis and interpretation
-- ChIP-Seq for chromatin and epigenetic studies
-- Bioinformatics pipelines and computational genomics
-- HPC computing
-- Open science and reproducible research
-
-## 🐛 Repositories
-
-Explore my repositories for:
-- Bioinformatics pipelines for WGS variant calling and annotation
-- RNA-Seq analysis workflows for insect systems
-- ChIP-Seq processing and analysis scripts
-- Epigenetic data visualization and statistical analysis code
-- HPC job submission scripts and workflow automation
-- Comparative genomics analyses across honeybees, termites, and beetles
-- Research tutorials and documentation
-- Data processing scripts in Python, R, and Bash
+- Epigenetics | somatic mutations | Phenotypic plasticy | Ageing | Social Insects | Most recently beekeeping :)
 ---
 
 ⭐ I'm always excited to discuss research, collaborate on projects, or explore new ideas at the intersection of epigenetics, somatic mutations, and evolution.
 
-*Currently based at: University of Zurich until May 2026 | Upcoming: Starting at Uppsala University in June 2026*
-*Last updated: March 2026*
+*Last updated: June 2026*
