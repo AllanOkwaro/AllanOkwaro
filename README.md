@@ -1,6 +1,6 @@
 # Hi there, I'm Louis Allan Okwaro, but just call me Allan 👋
 
-Welcome to my GitHub profile! I'm a postdoctoral researcher exploring the basic evolutionary biology questions revolving around the fascinating intersection of epigenetics, somatic mutations, phenotypic plasticity, ageing, and the evolution of sociality.
+Welcome to my GitHub profile! I'm a researcher exploring the basic questions in evolutionary biology revolving around the role of epigenetics and somatic mutations in ageing in social insects. I am also interested in how epigenetics contributes to phenotypic plasticity and the evolution of sociality.
 
 ## 🔬 About Me
 
