@@ -62,9 +62,9 @@ I'm committed to open science principles. All my research code, pipelines, and d
 ## 🤝 Let's Connect
 
 - **Current Position:** Postdoctoral Researcher, Uppsala University
-- **Google Scholar:** [Allan Okwaro](https://scholar.google.com/citations?user=1tg_CLwAAAAJ&hl=en)
+- **Google Scholar:** [Louis Allan Okwaro](https://scholar.google.com/citations?user=1tg_CLwAAAAJ&hl=en)
 - **ORCID:** [0000-0002-2059-3531](https://orcid.org/0000-0002-2059-3531)
-- **ResearchGate:** [Louis Okwaro](https://www.researchgate.net/profile/Louis-Okwaro?ev=hdr_xprf)
+- **ResearchGate:** [Louis Allan Okwaro](https://www.researchgate.net/profile/Louis-Okwaro?ev=hdr_xprf)
 - **LinkedIn:** [Louis Allan Okwaro](https://www.linkedin.com/in/louis-allan-okwaro-07296137/)
 
 ## 💬 Ask Me About
