@@ -53,7 +53,7 @@ Here are some of my key research projects and contributions:
 
 - **Google Scholar:** [View my publications and citations](https://scholar.google.com/citations?user=1tg_CLwAAAAJ&hl=en)
 - **ORCID:** [0000-0002-2059-3531](https://orcid.org/0000-0002-2059-3531)
-- **ResearchGate:** [Louis Okwaro](https://www.researchgate.net/profile/Louis-Okwaro?ev=hdr_xprf)
+- **ResearchGate:** [Louis Allan Okwaro](https://www.researchgate.net/profile/Louis-Okwaro?ev=hdr_xprf)
 
 ## 📚 Open Science & Reproducibility
 
