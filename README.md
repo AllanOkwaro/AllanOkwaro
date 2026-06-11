@@ -1,4 +1,4 @@
-# Hi there, I'm Allan Okwaro 👋
+# Hi there, I'm Louis Allan Okwaro, but most people just call me Allan 👋
 
 Welcome to my GitHub profile! I'm a postdoctoral researcher exploring the basic evolutionary biology questions revolving around the fascinating intersection of epigenetics, somatic mutations, phenotypic plasticity, ageing, and the evolution of sociality.
 
